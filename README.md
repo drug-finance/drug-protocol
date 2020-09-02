@@ -1,28 +1,16 @@
 # 💊  DRUG Gem DAO Protocol 💊 
 
-![](https://i.imgur.com/rBqjTu1.jpg)
+![](https://i.imgur.com/f3xTybd.png)
 
 ## The Protocol
-The whale fights the drug, and it has never changed since ancient times. Who said drug can't fight big whales? As long as we are united!
+The whale is on drugs.
 
-Drug is a community that gathers all investors. We share the latest Pump tokens and collectively discuss the latest DeFi technology! Anyone who holds 3000 $Drug Coins or equivalent to 4000 $USD can make a Advanced Pool. All Drug Holders will start marketing your token! why? Because we are a group of people who want to fight whales.
-
-
-## Level of ocean
-🐋 Humpback Whale = 5000 BTC or more  
-🐋 Whale = 1000 - 5000 BTC  
-🦈 Shark = 500 - 1000 BTC  
-🐬 Dolphin = 100 - 500 BTC  
-🐠 Fish = 50 - 100 BTC  
-🐙 Octopus = 10 - 50 BTC  
-🦀 Crab = 1 - 10 BTC  
-💊 Drug = less than 1 BTC (We are here)
+Drug is a community that gathers all investors. We share the latest Pump tokens and collectively discuss the latest DeFi technology! Anyone who holds 3000 $Drug Coins or equivalent to 4000 $USD can make a Advanced Pool. All Drug Holders will start marketing your token! why? Because we are a group of people who want to fight whales. Who are on drugs.
 
 ## About Developer
-Xixi's address: [0xaa447A04b15AFF261e0683f293A1b731c5c10c9B](https://etherscan.io/address/0xaa447A04b15AFF261e0683f293A1b731c5c10c9B)
+Rocco's address: [0xC0682d80Cb3c6BC921f3f4672f814B6B4d476A70](https://etherscan.io/address/0xC0682d80Cb3c6BC921f3f4672f814B6B4d476A70)
 
-
-## Shirmp Token Info
+## Drug Token Info
 Total Drug Coin：233,735.84 Drug ([More Info](https://github.com/drug-finance/drug-protocol/wiki/Total-Drug:-233,735.84-%F0%9F%A6%90)  )  
 The last total amount update: 2020/08/28(+ 4,494.92 💊)  
 
